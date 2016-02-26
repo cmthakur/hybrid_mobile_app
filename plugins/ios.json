@@ -12,6 +12,9 @@
         },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.chandra.bfa"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.chandra.bfa"
         }
     },
     "dependent_plugins": {}
